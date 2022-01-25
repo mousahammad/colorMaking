@@ -7,3 +7,8 @@ div#root {
   color: red;
   height: 200px;
 }
+
+p#my-p {
+  background-color: yellowgreen;
+  color: purple;
+}
