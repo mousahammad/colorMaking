@@ -1,0 +1,9 @@
+body {
+  background-color: blueviolet;
+}
+
+div#root {
+  background-color: chartreuse;
+  color: red;
+  height: 200px;
+}
